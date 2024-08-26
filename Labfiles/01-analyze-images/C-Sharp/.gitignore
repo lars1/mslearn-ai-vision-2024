@@ -1,0 +1,5 @@
+appsettings.local.json
+image-analysis/bg_removed.png
+image-analysis/fg_matting.png
+image-analysis/objects.jpg
+image-analysis/persons.jpg
